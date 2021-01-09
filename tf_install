@@ -1,0 +1,13 @@
+1. install anaconda
+
+2. install pycharm
+
+3. connect anaconda's python to pycharm
+
+4. install tensorflow with pip
+
+5. install cuda development kit
+
+6. download cudnn and paste cudnn64_8.dll(in bin folder) on cuda's bin
+
+7. run test code and check installed tf
