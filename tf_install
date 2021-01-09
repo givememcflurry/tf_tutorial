@@ -4,7 +4,7 @@
 
 3. connect anaconda's python to pycharm
 
-4. install tensorflow with pip
+4. install tensorflow with pip and check program version you need
 
 5. install cuda development kit
 
